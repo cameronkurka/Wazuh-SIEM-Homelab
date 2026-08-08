@@ -1,3 +1,3 @@
-![Kali Agent Connected](../images/kali-agent-connected.png)
+![Wazuh Dashboard](../images/dashboard-overview.png)
 
-*Figure 2 — Kali Linux endpoint successfully enrolled and reporting as an active Wazuh agent.*
+*Figure 1 — Wazuh SIEM dashboard displaying security alerts from the monitored Kali Linux endpoint.*
