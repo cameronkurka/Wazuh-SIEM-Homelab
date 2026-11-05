@@ -69,9 +69,11 @@ The alert alone does not establish that an account was compromised. This investi
 
 ## 6. Evidence
 
-Screenshots captured during the investigation document the Wazuh dashboard, monitored endpoint connection, and authentication-related security alerts.
+The following screenshot shows the SSH authentication alerts detected by Wazuh during the controlled investigation.
 
-Additional evidence will be linked here as the repository documentation is organized.
+![Wazuh SSH Brute Force Alert](../images/ssh-bruteforce-alert.png)
+
+**Figure 1:** Wazuh Threat Hunting dashboard displaying SSH authentication alerts associated with MITRE ATT&CK T1110 (Brute Force).
 
 ## 7. Lessons Learned
 
