@@ -116,7 +116,21 @@ See [SSH Authentication Failure Investigation](02-ssh-bruteforce-investigation.m
 
 ## 7. Evidence
 
-Screenshots of the dashboard and connected endpoint will be added here as the repository documentation is organized.
+### Wazuh Dashboard Overview
+
+The Wazuh dashboard provides centralized visibility into monitored endpoints and security events.
+
+![Wazuh Dashboard Overview](../images/dashboard-overview.png)
+
+**Figure 1:** Wazuh SIEM dashboard displaying the monitoring environment.
+
+### Kali Linux Agent Connection
+
+The Kali Linux endpoint was successfully enrolled in Wazuh and appeared as an active monitored agent.
+
+![Kali Linux Agent Connected](../images/kali-agent-connected.png)
+
+**Figure 2:** Wazuh dashboard confirming successful endpoint enrollment and connectivity.
 
 ## 8. Lessons Learned
 
